@@ -1,4 +1,4 @@
-[rsschool-cv](https://YanaLusevich.github.io/rsschool-cv/)
+[rsschool-cv](https://github.com/YanaLusevich/rsschool-cv/blob/gh-pages/cv.md)
 # Yana Lusevich 
 *Junior Front-end Developer*
 ## Contacts
