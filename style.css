@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: beige;
+    min-width: 935px
 }
 h2 {
     color: saddlebrown;
@@ -11,6 +12,7 @@ h2 {
 .bg {
     background-color: #7fffd470;
     height: 300px;
+    width: 100%;
 }
 .naviation {
     padding-top: 15px;
@@ -53,9 +55,12 @@ h2 {
     width: 100px;
     margin: auto;
 }
-.header {
-    width: 935px;
-    margin: auto;
+.header,
+.columns,
+.footer_content {
+    width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
 }
 .columns {
     width: 935px;
@@ -72,6 +77,7 @@ li {
     line-height: 23px;
 }
 .footer {
+    width: 100%;
     background-color: #7fffd470;
     display: flex;
     flex-direction: column;
