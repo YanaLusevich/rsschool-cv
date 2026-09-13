@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    background-color: beige;
+    min-width: 935px
+}
+h2 {
+    color: saddlebrown;
+    padding: 10px;
+    border: #9e9e9e solid 1px;
+    background-color: #7fffd470;
+}
+.bg {
+    background-color: #7fffd470;
+    height: 300px;
+    width: 100%;
+}
+.naviation {
+    padding-top: 15px;
+}
+.nav_elem {
+    padding: 10px 0px 10px 10px;
+    text-decoration: none;
+    color: saddlebrown;
+    font-weight: bold;
+}
+.photo {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    position: absolute;
+}
+.qal {
+    margin-left: 340px;
+    padding-top: 150px;
+    font-size: 26px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.name {
+    margin-left: 340px;
+    font-size: 36px;
+    margin-top: 0px;
+}
+.city-year {
+    text-align: center;
+}
+.rsschool {
+    width: 935px;
+    margin: auto;
+}
+.link_rs_logo {
+    position: absolute;
+}
+.city_year {
+    width: 100px;
+    margin: auto;
+}
+.header,
+.columns,
+.footer_content {
+    width: 935px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.columns {
+    width: 935px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 16px;
+    line-height: 23px;
+    margin: 0;
+}
+li {
+    line-height: 23px;
+}
+.footer {
+    width: 100%;
+    background-color: #7fffd470;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    padding: 24px 16px;
+}
+.footer_content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 925px;
+}
+.accounmt_github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.2s ease;
+}
+.accounmt_github:hover {
+    opacity: 0.8
+}
+.link_rs_course {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.2s ease;
+}
+.logo_github {
+    width: 60px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.logo_rsschool {
+    width: 60px;
+    padding-right: 10px;
+}
+.footer_year {
+    margin: 0;
+    font-size: 14px;
+    opacity: 0.8;
+}
+
